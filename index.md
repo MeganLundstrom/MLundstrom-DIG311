@@ -34,3 +34,5 @@ Still more
 A little more
 ###### Head 6
 la
+
+![Mara Schino character sheet, a cherry fox girl][/Pix/mara.png]
